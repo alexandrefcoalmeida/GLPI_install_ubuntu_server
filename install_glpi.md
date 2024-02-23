@@ -81,7 +81,7 @@ Especificar servidores NTP:
 
 ``` 
 sudo vim /etc/ntp.conf 
-# (Caso o vim não esteja instalado executar o comando sudo apt install vim)
+ (Caso o vim não esteja instalado executar o comando sudo apt install vim)
 ```
 
 - Dentro do arquivo, você verá linhas como:
