@@ -14,11 +14,6 @@ vim /etc/netplan/00-installer-config.yaml
 ```
 - Aqui está um exemplo de como a configuração deve ficar:
 ```
-# This is the network config written by 'subiquity'
-
--Aqui está um exemplo de como a configuração deve ficar:
-
-```
 This is the network config written by 'subiquity'
 
 network:
